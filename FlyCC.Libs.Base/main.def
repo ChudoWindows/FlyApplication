@@ -1,0 +1,4 @@
+EXPORTS
+	GetLibInfo = GetLibInfoAPI
+	CreateLib = CreateLibAPI
+	DestroyLib = DestroyLibAPI

@@ -1,0 +1,3 @@
+$(SolutionDir)Build\$(ProjectName)\$(Platform).$(Configuration)\
+$(SolutionDir)Dist\$(ProjectName)\$(Platform).$(Configuration)\
+$(SolutionDir)Dist\...\$(Platform).$(Configuration)\
