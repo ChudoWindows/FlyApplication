@@ -28,6 +28,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsUtils", "WindowsUtil
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ILibManager.Test", "ILibManager.Test\ILibManager.Test.vcxproj", "{7039E67C-9EE0-4553-AA01-1E6F755FBAA7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlyCC.Libs.Ini", "Libs\FlyCC.Libs.Ini\FlyCC.Libs.Ini.vcxproj", "{25AC381E-D17B-469A-AD5F-1AC5CC25648F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -92,6 +94,14 @@ Global
 		{7039E67C-9EE0-4553-AA01-1E6F755FBAA7}.Release|x64.Build.0 = Release|x64
 		{7039E67C-9EE0-4553-AA01-1E6F755FBAA7}.Release|x86.ActiveCfg = Release|Win32
 		{7039E67C-9EE0-4553-AA01-1E6F755FBAA7}.Release|x86.Build.0 = Release|Win32
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Debug|x64.ActiveCfg = Debug|x64
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Debug|x64.Build.0 = Debug|x64
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Debug|x86.ActiveCfg = Debug|Win32
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Debug|x86.Build.0 = Debug|Win32
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Release|x64.ActiveCfg = Release|x64
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Release|x64.Build.0 = Release|x64
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Release|x86.ActiveCfg = Release|Win32
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +114,7 @@ Global
 		{DF5B056C-617F-4609-BE17-723AF20CB201} = {1DDB222D-7A78-41E6-94C6-3432F9069ECD}
 		{0650D760-0B93-4D4E-94E2-5E0D3D126EFB} = {1DDB222D-7A78-41E6-94C6-3432F9069ECD}
 		{7039E67C-9EE0-4553-AA01-1E6F755FBAA7} = {2E340A13-3476-4019-B35A-1A0F67C12FA1}
+		{25AC381E-D17B-469A-AD5F-1AC5CC25648F} = {A44941C6-A007-4889-BD63-99A2EA92C6E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4E750DFA-6263-4EF9-A7AE-713220BB7CFD}
